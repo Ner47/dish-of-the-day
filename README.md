@@ -1,18 +1,26 @@
 # Dish of the day
 
 + [Description](#description)
++ [Features](#features)
 + [How to use](#how-to-use)
 + [Technologies](#technologies)
 + [License](#license)
 
 ## Description
-The message generator, which, when run randomly, displays a message in the terminal with the text:
+A message generator that, when launched, randomly prints a message to the terminal with the text:
 
-**Today's dish is French-style mushroom risotto.**
+> Welcome to our restaurant `Merry Corner`.
+>
+> Today's dish is `Neapolitan`-style `parmesan` `bake`.
 
-1. dish style;
-2. what's added;
-3. dish name.
+## Features
+
+The message generates the following things:
+
+1. restaurant name;
+2. dish style;
+3. what's added;
+5. dish name.
 
 ## How to use
 
