@@ -1,9 +1,9 @@
 # Dish of the day
 
-+ Description
-+ Technologies
-+ License
-+ How to use
++ [Description](#description)
++ [How to use](#how-to-use)
++ [Technologies](#technologies)
++ [License](#license)
 
 ## Description
 The message generator, which, when run randomly, displays a message in the terminal with the text:
@@ -25,4 +25,4 @@ The project uses **Js** and **Node** for implementation.
 
 ## License
 
-[MIT](./README.md)
+[MIT](./LICENSE)
